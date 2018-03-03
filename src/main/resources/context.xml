@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 
+	配置Controller(处理器)
+	处理器:处理业务逻辑的一个类
+	 -->
+	 <bean class="base.controller.HelloController"/>
+	 <bean class="base.controller.BmiController"/>
+	 
+</beans>
